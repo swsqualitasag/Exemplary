@@ -81,3 +81,4 @@ compute_genetic_gain_trait_CF <- function(genetic_var_cov,
   Qtrait_CF <- as.numeric(Qtrait_CF)
 
   return(Qtrait_CF)
+}

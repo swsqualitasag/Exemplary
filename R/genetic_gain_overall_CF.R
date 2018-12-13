@@ -78,3 +78,4 @@ compute_genetic_gain_overall_CF <- function(genetic_var_cov,
   Qoverall_CF <- as.numeric(Qoverall_CF)
 
   return(Qoverall_CF)
+}
